@@ -83,8 +83,8 @@ LCEL(LangChain Expression Language)을 활용하여 체인에 대화 상태 관�
 ---
 
 ## 🤖 최종 QA Chatbot Huggingface
-https://huggingface.co/spaces/AD-Styles/RAG_Chatbot
-https://huggingface.co/spaces/AD-Styles/RAG_Chatbot_Upgrade
+1. https://huggingface.co/spaces/AD-Styles/RAG_Chatbot
+2. https://huggingface.co/spaces/AD-Styles/RAG_Chatbot_Upgrade
 
 
 ## 💡 회고록 (Retrospective)
