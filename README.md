@@ -1,5 +1,4 @@
-# 📚 Interactive Paper Review: End-to-End Conversational RAG Architecture
-> **Implementing Context-Aware LLM Chatbot with LangChain, Vector Search, and Gradio Deployment**
+# 📚 Implementing Context-Aware LLM Chatbot with LangChain, Vector Search, and Gradio Deployment
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.3.25-green.svg)
@@ -22,7 +21,8 @@
 ## 📂 프로젝트 구조 (Project Structure)
 ```text
 📂 rag-chatbot
-├── 📄 app.py                            # Gradio UI 및 RAG 파이프라인 통합 실행 메인 서버
-├── 📄 requirements.txt                  # Hugging Face 배포를 위한 의존성 패키지 명세서
 ├── 📄 Maximizing Muscle Hypertrophy.pdf # RAG 지식 검색 기반 원본 문서 (Vector DB 색인용)
-└── 📄 README.md                         
+└── 📄 README.md
+├── 📄 app.py                            # Gradio UI 및 RAG 파이프라인 통합 실행 메인 서버
+├── 📄 requirements.txt                  # Hugging Face 배포를 위한 의존성 패키지 명세서                         
+```
