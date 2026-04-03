@@ -1,0 +1,6 @@
+gradio
+langchain==0.3.25
+langchain-google-genai
+langchain-chroma
+langchain-community
+pypdf
