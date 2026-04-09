@@ -46,7 +46,7 @@
 ---
 
 ### 2. Context-Aware Retrieval & Generation
-사용자의 질문에 대해 가장 연관성 높은 문서를 찾아 답변을 생성하는 핵심 체인을 구성했습니다.
+사용자의 질문에 대해 가장 연관성 높은 문서를 찾아 답변을 생성하는 핵심 체인을 구성
 
 | 프로세스 순서 | 활용 모듈 | 수행 내용 |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 ---
 
 ### 3. Conversational Memory Injection
-LCEL(LangChain Expression Language)을 활용하여 체인에 대화 상태 관리 기능을 주입했습니다.
+LCEL(LangChain Expression Language)을 활용하여 체인에 대화 상태 관리 기능을 주입
 
 | 메모리 관리 기법 | 활용 객체 | 비고 |
 | :--- | :--- | :--- |
