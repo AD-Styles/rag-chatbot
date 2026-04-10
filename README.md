@@ -50,7 +50,7 @@
 ### 2. Context-Aware Retrieval & Generation
 사용자의 질문에 대해 가장 연관성 높은 문서를 찾아 답변을 생성하는 핵심 체인을 구성
 
-| 프로세스 순서 | 활용 모듈 | 수행 내용 |
+| 프로세스 순서 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 활용 모듈 | 수행 내용 |
 | :--- | :--- | :--- |
 | 1. Retrieval | retriever | 벡터 유사도 기반으로 질문과 관련된 상위 문서 조각(Chunk) 추출 |
 | 2. Prompting | ChatPromptTemplate | System Prompt, Context, Chat History, User Input을 결합한 동적 프롬프트 설계 |
