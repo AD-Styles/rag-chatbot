@@ -13,7 +13,7 @@
 ---
 
 ## 🎯 핵심 목표 (Motivation)
-| 구분&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 세부 내용 |
+| 구분&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 세부 내용 |
 | :--- | :--- |
 | **RAG 파이프라인 구축** | 범용 LLM의 한계(지식 부족, 환각 현상)를 극복하기 위해 Chroma 벡터 DB와 연결하여 외부 지식을 동적으로 검색 및 주입하는 구조 설계 |
 | **대화 맥락 유지 (Memory)** | 독립적인 단일 질의응답을 넘어, `RunnableWithMessageHistory`를 통해 세션별 대화 기록을 관리하여 문맥을 이해하는 다턴(Multi-turn) 대화 구현 |
