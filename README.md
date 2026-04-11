@@ -26,7 +26,7 @@
 📂 rag-chatbot
 ├── 📄 .gitignore
 ├── 📄 LICENSE
-├── 📄 Maximizing Muscle Hypertrophy.pdf     # RAG 지식 검색 기반 원본 문서 (Vector DB 색인용)
+├── 📄 Maximizing Muscle Hypertrophy.pdf     # RAG 지식 검색 기반 원본 문서
 ├── 📄 README.md
 ├── 📄 app.py                                # Gradio UI 및 RAG 파이프라인 통합 실행 메인 서버
 └── 📄 requirements.txt                      # Hugging Face 배포를 위한 패키지 명세서                         
