@@ -11,7 +11,7 @@ from langchain_core.chat_history import BaseChatMessageHistory, InMemoryChatMess
 from langchain_core.runnables.history import RunnableWithMessageHistory
 
 # -------------------------------------------------------------------
-# 1. RAG 챗봇 세팅 
+# 1. RAG 챗봇 세팅
 # -------------------------------------------------------------------
 
 # API 키 설정 (Hugging Face Spaces Secrets 연동용)
