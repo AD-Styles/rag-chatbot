@@ -1,4 +1,4 @@
-# 📚 Implementing Context-Aware LLM Chatbot with LangChain, Vector Search, and Gradio Deployment.
+# 📚 Implementing Context-Aware LLM Chatbot with LangChain, Vector Search, and Gradio Deployment
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.3.25-green.svg)
