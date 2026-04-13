@@ -4,6 +4,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0.3.25-green.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-blue.svg)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow.svg)
 
 ---
 
